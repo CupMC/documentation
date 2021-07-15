@@ -1,4 +1,4 @@
-# Community Guides and Tutorials
+# Community Guides and Tutorials					
 
 ## About
 This section of Pterodactyl's site is dedicated to more complex topics, tutorials, and features that we
